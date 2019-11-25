@@ -1,0 +1,11 @@
+D:\fery pemrograman\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\fery pemrograman\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\fery pemrograman\Calculator\Calculator\obj\Debug\Calculator.frmHasil.resources
+D:\fery pemrograman\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\fery pemrograman\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\fery pemrograman\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\fery pemrograman\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\fery pemrograman\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\fery pemrograman\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\fery pemrograman\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\fery pemrograman\Calculator\Calculator\obj\Debug\Calculator.pdb
